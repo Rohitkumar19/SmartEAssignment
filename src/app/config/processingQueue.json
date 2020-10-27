@@ -1,0 +1,42 @@
+[
+    {
+        "date": "28-Apr-2020",
+        "processingHdrName": "Webinar Supression List",
+        "inputRecords": "1580",
+        "validRecords": "1580",
+        "action": "Add Emails",
+        "by": "Mark Henry",
+        "lists": "Do Not Disturb",
+        "status": "In Progress"
+    },
+    {
+        "date": "30-Apr-2020",
+        "processingHdrName": "Delete Supression List-ERP Contacts",
+        "inputRecords": "2000",
+        "validRecords": "2000",
+        "action": "Delete Lists",
+        "by": "Chris Jerichp",
+        "lists": "New Supression Lists",
+        "status": "Queued"
+    },
+    {
+        "date": "30-Apr-2020",
+        "processingHdrName": "Delete Supression List-ERP Contacts",
+        "inputRecords": "1580",
+        "validRecords": "1580",
+        "action": "Add Email",
+        "by": "Mark Twain",
+        "lists": "Do Not Disturb",
+        "status": "In Progress"
+    },
+    {
+        "date": "1-May-2020",
+        "processingHdrName": "Delete Supression List-ERP Contacts",
+        "inputRecords": "2000",
+        "validRecords": "2000",
+        "action": "Delete Lists",
+        "by": "Chris Jerichp",
+        "lists": "New Supression Lists",
+        "status": "Queued"
+    }
+]
